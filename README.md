@@ -8,12 +8,8 @@ I love building clean, efficient, and scalable web applications.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge&link=)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge)]()
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00dc82?logo=nuxt.js&logoColor=white&style=for-the-badge)]()
 [![Angular](https://img.shields.io/badge/Angular-f11653?logo=angular&logoColor=white&style=for-the-badge)]()
-[![React](https://img.shields.io/badge/React-58c4dc?logo=react&logoColor=white&style=for-the-badge)]()
-[![SCSS/Sass](https://img.shields.io/badge/SCSS/SASS-9e5680?logo=sass&logoColor=white&style=for-the-badge)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?logo=tailwindcss&logoColor=white&style=for-the-badge)]()
-
+[![React](https://img.shields.io/badge/React-58c4dc?logo=react&logoColor=white&style=for-the-badge)]() &nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-417e38?logo=node.js&logoColor=white&style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)]()
 [![PHP](https://img.shields.io/badge/PHP-4f5b93?logo=php&logoColor=white&style=for-the-badge)]()
@@ -21,11 +17,9 @@ I love building clean, efficient, and scalable web applications.
 [![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb&logoColor=white&style=for-the-badge)]()
 
 [![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-0078d4?logo=azure-cloud&logoColor=white&style=for-the-badge)]()
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078d4?logo=azure-devops&logoColor=white&style=for-the-badge)]()
 [![Git](https://img.shields.io/badge/Git-f14e32?logo=git&logoColor=white&style=for-the-badge)]()
 [![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white&style=for-the-badge)]()
-[![Figma](https://img.shields.io/badge/Figma-f24e1e?logo=figma&logoColor=white&style=for-the-badge)]()
-
+[![Figma](https://img.shields.io/badge/Figma-f24e1e?logo=figma&logoColor=white&style=for-the-badge)]() &nbsp;
 [![Godot](https://img.shields.io/badge/Godot-4d9fdc?logo=godotengine&logoColor=white&style=for-the-badge)]()
 [![Unity](https://img.shields.io/badge/Unity-222c37?logo=unity&logoColor=white&style=for-the-badge)]()
 
@@ -33,7 +27,7 @@ I love building clean, efficient, and scalable web applications.
 
 ### 🎵 In My free time
 
-🎮 **Game Development**: Creating engaging games using [![Godot](https://img.shields.io/badge/Godot-4d9fdc?logo=godot&logoColor=white&style=inline)](), [![Unity](https://img.shields.io/badge/Unity-222c37?logo=unity&logoColor=white&style=inline)]() and [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&logoColor=white&style=inline)]().
+🎮 **Game Development**: Creating fun games using [![Godot](https://img.shields.io/badge/Godot-4d9fdc?logo=godot&logoColor=white&style=inline)](), [![Unity](https://img.shields.io/badge/Unity-222c37?logo=unity&logoColor=white&style=inline)]() and [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&logoColor=white&style=inline)]().
 
 🎸 **Music**: Playing instruments and exploring various genres.
 
