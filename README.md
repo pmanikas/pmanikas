@@ -33,13 +33,13 @@ I love building clean, efficient, and scalable web applications.
 
 ### 🎵 In My free time
 
-🎮 **Game Development**: Creating engaging games using ![Godot](https://img.shields.io/badge/Godot-4d9fdc?logo=godot&logoColor=white&style=inline) and other tools
+🎮 **Game Development**: Creating engaging games using [![Godot](https://img.shields.io/badge/Godot-4d9fdc?logo=godot&logoColor=white&style=inline)](), [![Unity](https://img.shields.io/badge/Unity-222c37?logo=unity&logoColor=white&style=inline)]() and [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&logoColor=white&style=inline)]().
 
-🎸 **Music**: Playing instruments and exploring various genres
+🎸 **Music**: Playing instruments and exploring various genres.
 
-🧙‍♂️ **Dungeons & Dragons**: Immersing myself in complex storytelling and strategy
+🧙‍♂️ **Dungeons & Dragons**: Immersing myself in complex storytelling and strategy.
 
-🧠 **Psychology**: Understanding human behavior and its applications in tech and team management
+🧠 **Psychology**: Understanding human behavior and its applications in tech and team management.
 
 ---
 
