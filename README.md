@@ -12,13 +12,13 @@ I love building clean, efficient, and scalable web applications.
 [![React](https://img.shields.io/badge/React-58c4dc?logo=react&logoColor=white&style=for-the-badge)]() &nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-417e38?logo=node.js&logoColor=white&style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)]()
-[![PHP](https://img.shields.io/badge/PHP-4f5b93?logo=php&logoColor=white&style=for-the-badge)]()
 [![SQL](https://img.shields.io/badge/SQL-2b5d80?logo=sqlite&logoColor=white&style=for-the-badge)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb&logoColor=white&style=for-the-badge)]()
 
 [![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-0078d4?logo=azure-cloud&logoColor=white&style=for-the-badge)]()
 [![Git](https://img.shields.io/badge/Git-f14e32?logo=git&logoColor=white&style=for-the-badge)]()
 [![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white&style=for-the-badge)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=for-the-badge)]() &nbsp;
 [![Figma](https://img.shields.io/badge/Figma-f24e1e?logo=figma&logoColor=white&style=for-the-badge)]() &nbsp;
 [![Godot](https://img.shields.io/badge/Godot-4d9fdc?logo=godotengine&logoColor=white&style=for-the-badge)]()
 [![Unity](https://img.shields.io/badge/Unity-222c37?logo=unity&logoColor=white&style=for-the-badge)]()
