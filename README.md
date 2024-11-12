@@ -46,8 +46,8 @@ I love building clean, efficient, and scalable web applications.
 ### 📊 I also love graphs
 
 <a href="https://github.com/pmanikas">
-<img height="180" align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=pmanikas&theme=synthwave&hide_border=true' />
-<img height="180" align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=pmanikas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img height="190" align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=pmanikas&theme=synthwave&hide_border=true' />
+<img height="190" align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=pmanikas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </a>
    
 ---
