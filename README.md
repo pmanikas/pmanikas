@@ -46,6 +46,14 @@ I love building clean, efficient, and scalable web applications.
    
 ---
 
+### Support
+
+If you enjoy my apps, support me here:
+
+<a href="https://www.buymeacoffee.com/pmanikas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
 ### 📬 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmanikas)
 [![Discord](https://img.shields.io/badge/DISCORD-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com)
