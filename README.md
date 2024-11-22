@@ -51,8 +51,7 @@ I love building clean, efficient, and scalable web applications.
 If you enjoy my apps, support me here:
 
 <a href="https://www.buymeacoffee.com/pmanikas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-&nbsp;
-<a href="https://www.paypal.com/donate/?hosted_button_id=GK4EXV6TJX8PN" target="_blank"><img src="https://github.com/pmanikas/pmanikas/blob/main/paypal-button.png?raw=true" alt="Buy Me A Coffee" style="height: 60px !important;width: auto !important;" ></a>
+
 ---
 
 ### 📬 How to reach me
