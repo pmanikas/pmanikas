@@ -16,7 +16,7 @@ document.currentScript.insertAdjacentHTML('beforebegin', `
 
     .coffee::before {
         content: "";
-        background-image: url("https://github.com/pmanikas/pmanikas/blob/main/images/coffee-cup-8bit.png");
+        background-image: url("/images/coffee-cup-8bit.png");
         width: 20px;
         height: 40px;
         background-size: contain;
