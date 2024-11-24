@@ -10,7 +10,6 @@ document.currentScript.insertAdjacentHTML('beforebegin', `
         gap: 1rem;
         color: #000;
         border: none;
-        opacity: 0.2;
         cursor: pointer;
         font-size: 12px;
         word-spacing: 0;
@@ -26,10 +25,6 @@ document.currentScript.insertAdjacentHTML('beforebegin', `
         background-size: contain;
         background-repeat: no-repeat;
         flex-shrink: 0;
-    }
-
-    .coffee:hover {
-        opacity: 1;
     }
 
     .coffee-link {

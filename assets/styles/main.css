@@ -1,17 +1,20 @@
 :root {
     --primary-color: #2d3748;
     --secondary-color: #4a5568;
-    --accent-color: #4299e1;
+    --accent-color: #8b38d8;
     --background-color: #f7fafc;
     --code-background: #2d3748;
     --code-color: #e2e8f0;
+    --base-spacing: 2rem;
+    --base-radius: 8px;
+    --base-radius-soft: 4px;
+    --base-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-    line-height: 1.6;
+    font-family: -apple-system, Arial, sans-serif;
     margin: 0;
-    padding: 2rem;
+    padding: var(--base-spacing);
     background-color: var(--background-color);
     color: var(--primary-color);
 }
@@ -19,29 +22,30 @@ body {
 h1 {
     color: var(--primary-color);
     border-bottom: 3px solid var(--accent-color);
-    padding-bottom: 0.5rem;
-    margin-bottom: 2rem;
+    padding-bottom: calc(var(--base-spacing) / 4);
 }
 
 h2 {
     color: var(--secondary-color);
-    margin-top: 2rem;
+    margin: 0 0 var(--base-spacing) 0;
 }
 
 .code-container {
+    display: flex;
+    flex-direction: column;
+    gap: calc(var(--base-spacing) / 2);
     background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin: 2rem 0;
-    padding: 1.5rem;
+    border-radius: var(--base-radius);
+    box-shadow: var(--base-shadow);
+    margin: var(--base-spacing) 0;
+    padding: var(--base-spacing);
 }
 
 .code-block {
     position: relative;
     background-color: var(--code-background);
-    border-radius: 6px;
-    padding: 1rem;
-    margin-top: 1rem;
+    border-radius: var(--base-radius);
+    padding: calc(var(--base-spacing) / 2);
 }
 
 pre {
@@ -52,22 +56,24 @@ pre {
 
 code {
     color: var(--code-color);
-    font-family: 'Fira Code', 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 0.9rem;
 }
 
+.code-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .copy-button {
-    position: absolute;
-    top: 0.5rem;
-    right: 0.5rem;
     background-color: var(--accent-color);
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: var(--base-radius-soft);
     padding: 0.5rem 1rem;
     cursor: pointer;
-    transition: background-color 0.2s;
-    font-size: 0.9rem;
+    transition: background-color 0.3s;
 }
 
 .copy-button:hover {
@@ -78,8 +84,7 @@ code {
     background-color: #48bb78;
 }
 
-@media (max-width: 768px) {
-    body {
-        padding: 1rem;
-    }
+.footer {
+    margin-top: var(--base-spacing);
+    text-align: center;
 }
