@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Buy me coffee 8bit button",
+        "filename": "buy-me-coffee-button-8bit.js",
+        "description": "A simple 8bit button that says 'Buy me coffee' and links to my donation page."
+    },
+    {
+        "title": "Github 8bit button",
+        "filename": "github-button-8bit.js",
+        "description": "A simple 8bit button that links to my Github profile."
+    }
+]
