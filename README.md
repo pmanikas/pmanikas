@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Pantelis Manikas and I'm a senior front-end developer, software consultant and tech lead. 
+I'm Pantelis, I'm a full-stack developer, software consultant and tech lead. 
 
 I love building clean, efficient, and scalable web applications.
 
