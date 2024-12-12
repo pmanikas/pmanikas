@@ -8,5 +8,10 @@
         "title": "Github 8bit button",
         "filename": "github-button-8bit.js",
         "description": "A simple 8bit button that links to my Github profile."
+    },
+    {
+        "title": "Github card",
+        "filename": "github-card.js?color=#fff&bg=#000&size=16&hasBorder=true",
+        "description": "A simple card that displays my Github profile."
     }
 ]
